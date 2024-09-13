@@ -81,7 +81,7 @@ export const Navbar = () => {
               <SheetContent side={"left"}>
                 <SheetHeader>
                   <SheetTitle className="font-bold text-xl">
-                    Shadcn/React
+                    DIATECH
                   </SheetTitle>
                 </SheetHeader>
                 <nav className="flex flex-col justify-center items-center gap-2 mt-4">
@@ -105,7 +105,7 @@ export const Navbar = () => {
                     })}`}
                   >
                     <FaWhatsapp className="mr-2 w-5 h-5" />
-                    Github
+                    WhatsApp
                   </a>
                 </nav>
               </SheetContent>
